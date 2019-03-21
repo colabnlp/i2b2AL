@@ -7,3 +7,7 @@ Tentative approach:
 
 ### Survey of embeddings:
 #### https://arxiv.org/pdf/1802.00400.pdf 
+
+### Embedding links:
+#### http://bio.nlplab.org/ 
+#### http://evexdb.org/pmresources/vec-space-models/
